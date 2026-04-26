@@ -1,0 +1,16 @@
+{
+  "name": "MP-X ONE",
+  "short_name": "MP-X ONE",
+  "description": "Arbeit, die sich selbst sortiert.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050506",
+  "theme_color": "#050506",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
